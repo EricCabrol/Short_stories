@@ -1,8 +1,10 @@
 # Short_stories
 
-10 slides for motorcycle dynamics : pdf
+Finding extensive sources of information on the web is easy. Finding useful resources 
 
-10 slides for multibody simulation : pdf
+10 slides for motorcycle dynamics : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
+
+10 slides for multibody simulation : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
 
 **Finite Element Analysis**
 * A mindmap : [link](https://coggle.it/diagram/XlvQjtceSoXREHaB/t/modelica)
