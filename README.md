@@ -1,10 +1,13 @@
 # Short_stories
 
-Finding extensive sources of information on the web is easy. Finding useful resources 
+The web has become humongus. Having spent years compiling documents and information about all my interests, I felt the need to build a synthetic overview. Mind maps can be useful for this, as well as timelines ... or short pdfs. 
+Here are some of them.
 
-10 slides for motorcycle dynamics : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
+**Motorcycle dynamics**
+* 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
 
-10 slides for multibody simulation : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
+**Multibody simulation**
+* 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
 
 **Finite Element Analysis**
 * A mindmap : [link](https://coggle.it/diagram/XlvQjtceSoXREHaB/t/modelica)
