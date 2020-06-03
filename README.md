@@ -1,6 +1,6 @@
 # Short_stories
 
-The web has become humongus. Having spent years compiling documents and information about all my interests, I felt the need to build a synthetic overview. Mind maps can be useful for this, as well as timelines ... or short pdfs. 
+The web has become humongus. Having spent years compiling documents and information about all my interests, I felt the need to build a more synthetic overview. Mind maps can be useful for this, as well as timelines ... or short pdfs. 
 Here are some of them.
 
 **Motorcycle dynamics**
