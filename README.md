@@ -25,6 +25,8 @@ Here are some of them.
 **Python**
 * A mindmap with a focus on the ecosystem : [link](https://coggle.it/diagram/W9CwyuExeXqUceSf/t/python)
 
+**Git**  
+* 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/git_10slides.pdf)
 
 **Javascript**
 * A very brief overview : [link](https://go.stemic.app/maps/29f4db1b-6534-4650-9387-8246f80f8690)
