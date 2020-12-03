@@ -10,7 +10,7 @@ Here are some of them.
 * 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
 
 **Finite Element Analysis**
-* A mindmap : [link](https://coggle.it/diagram/XlvQjtceSoXREHaB/t/modelica)
+* A mindmap : [link](https://coggle.it/diagram/Wom6dAWJuAABBDb0/t/finite-element-analysis)
 
 
 **Modelica** : 
