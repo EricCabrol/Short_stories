@@ -7,7 +7,7 @@ Here are some of them.
 * 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
 
 **Multibody simulation**
-* 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/motorcycle_dynamics_in_10_slides.pdf)
+* 10 slides : [pdf](https://github.com/EricCabrol/Short_stories/blob/master/multibody_simulation_resources_in_10slides.pdf)
 
 **Finite Element Analysis**
 * A mindmap : [link](https://coggle.it/diagram/Wom6dAWJuAABBDb0/t/finite-element-analysis)
